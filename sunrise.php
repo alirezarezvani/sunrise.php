@@ -2,6 +2,7 @@
 /**
  * WPML Sunrise Script - START
  * @author OnTheGoSystems
+ * Modified for Domain mapping process by Alireza Rezvani
  * @version 3.7.0
  *
  * Place this script in the wp-content folder and add "define('SUNRISE', 'on');" in wp-config.php
